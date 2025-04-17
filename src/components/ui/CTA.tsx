@@ -151,7 +151,7 @@ const CTA = () => {
               className="flex flex-col sm:flex-row gap-5 justify-center"
             >
               <motion.a 
-                href="https://t.me/nikita_delo"
+                href="https://t.me/CodeWizNV"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }} 
@@ -166,7 +166,7 @@ const CTA = () => {
               </motion.a>
               
               <motion.a 
-                href="https://t.me/nikita_delo"
+                href="https://t.me/CodeWizNV"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }} 

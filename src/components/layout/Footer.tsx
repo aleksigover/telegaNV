@@ -13,7 +13,7 @@ const Footer = () => {
     { icon: <FiInstagram size={20} />, url: "#" },
     { icon: <FiLinkedin size={20} />, url: "#" },
     { icon: <FiGithub size={20} />, url: "#" },
-    { icon: <FiSend size={20} />, url: "https://t.me/nikita_delo" }
+    { icon: <FiSend size={20} />, url: "https://t.me/CodeWizNV" }
   ];
 
   const footerLinks = {
@@ -30,8 +30,8 @@ const Footer = () => {
       { name: "Контакты", url: "#" }
     ],
     contacts: [
-      { text: "Telegram: @nikita_delo" },
-      { text: "+7 (999) 123-45-67" },
+      { text: "Telegram: @CodeWizNV" },
+      { text: "+7 (917)) 235-45-67" },
       { text: "Москва, Россия" }
     ]
   };
@@ -179,7 +179,7 @@ const Footer = () => {
                 >
                   <span className="w-1.5 h-1.5 rounded-full bg-accent/70 mr-2"></span>
                   {index === 0 ? (
-                    <a href="https://t.me/nikita_delo" target="_blank" rel="noopener noreferrer">
+                    <a href="https://t.me/CodeWizNV" target="_blank" rel="noopener noreferrer">
                       {item.text}
                     </a>
                   ) : (

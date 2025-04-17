@@ -73,7 +73,7 @@ const Header = () => {
           className="hidden md:block"
         >
           <motion.a 
-            href="https://t.me/nikita_delo"
+            href="https://t.me/CodeWizNV"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary flex items-center"
@@ -152,7 +152,7 @@ const Header = () => {
                   </motion.a>
                 ))}
                 <motion.a 
-                  href="https://t.me/nikita_delo"
+                  href="https://t.me/CodeWizNV"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary mt-6 flex items-center justify-center"

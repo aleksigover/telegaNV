@@ -79,7 +79,7 @@ const Hero = () => {
               className="flex flex-col sm:flex-row gap-4"
             >
               <a 
-                href="https://t.me/nikita_delo"
+                href="https://t.me/CodeWizNV"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary shadow-lg shadow-accent/20 relative overflow-hidden group flex items-center justify-center"
@@ -91,7 +91,7 @@ const Hero = () => {
                 />
               </a>
               <a 
-                href="https://t.me/nikita_delo"
+                href="https://t.me/CodeWizNV"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-secondary backdrop-blur-sm relative overflow-hidden group flex items-center justify-center"

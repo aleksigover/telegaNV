@@ -514,7 +514,7 @@ const PriceCalculator = () => {
           className="flex justify-center gap-4 flex-wrap"
         >
           <a 
-            href="https://t.me/nikita_delo"
+            href="https://t.me/CodeWizNV"
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-accent rounded-full shadow-lg shadow-accent/20 relative overflow-hidden group flex items-center justify-center px-6 py-2.5"
