@@ -37,7 +37,7 @@ const Header = () => {
           className="flex items-center"
         >
           <a href="/" className="text-2xl font-bold">
-            <span className="text-gradient">NV Agency</span>
+            <span className="text-gradient">CodeWiz</span>
           </a>
         </motion.div>
 
